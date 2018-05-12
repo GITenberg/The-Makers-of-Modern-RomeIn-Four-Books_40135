@@ -1,0 +1,56 @@
+_repo: The-Makers-of-Modern-RomeIn-Four-Books_40135
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Pennell, Joseph
+    alias: Pennell, J. (Joseph)
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '33068'
+    url: http://www.gutenberg.org/2009/agents/33068
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
+  - agent_name: Riviere, Henry Parsons
+    alias: Riviere, Henry P.
+    birthdate: 1811
+    deathdate: 1888
+    gutenberg_agent_id: '40434'
+    url: http://www.gutenberg.org/2009/agents/40434
+covers:
+- cover_type: archival
+  image_path: 40135-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Oliphant, Mrs. (Margaret)
+    aliases:
+    - Olyphant, Mrs.
+    - Mrs. (Margaret) Oliphant
+    - Oliphant, M. O. W. (Margaret Oliphant Wilson)
+    - Oliphant, Margaret Oliphant Wilson
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '963'
+    url: http://www.gutenberg.org/2009/agents/963
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+description: ''
+gutenberg_issued: '2012-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40135'
+  lccn: '39006683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Rome (Italy) -- History -- 476-1420'
+tableOfContents: 'I. Honourable women not a few: Rome in the fourth century. The palace
+  on the Aventine. Melania. The society of Marcella. Paula. The mother house -- II.
+  The popes who made the papacy: Gregory the Great. The monk Hildebrand. The Pope
+  Gregory VII. Innocent III -- III. Lo popolo, and the tribune of the people: Rome
+  in the fourteenth century. The deliverer. The buono stato. Decline and fall. The
+  soldier of fortune. The end of the tragedy -- IV. The popes who made the city: Martin
+  V; Eugenius IV; Nicolas V. Calixtus III; Pius II; Paul II; Sixtus IV. Julius II;
+  Leo X.'
+title: The Makers of Modern Rome, in Four Books
+url: http://www.gutenberg.org/ebooks/40135
